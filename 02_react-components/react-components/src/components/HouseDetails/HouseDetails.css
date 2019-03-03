@@ -1,0 +1,9 @@
+.houseDetails {
+ width: 350px;
+  box-sizing:border-box;
+
+}
+
+.houseDetails p {
+  font-size: 22px;
+}
